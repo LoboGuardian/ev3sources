@@ -39,3 +39,8 @@ If you want to make a change to this shared repo, submit a **Pull Request**, whi
   [4]: http://go.mentor.com/2ig4q
   [5]: http://botbench.com/blog/2013/08/15/ev3-creating-console-cable/
   [6]: https://github.com/mindboards/ev3sources/wiki/Eclipse-import
+
+## Website about it
+
+https://botbench.com/blog/2013/07/31/lego-mindstorms-ev3-source-code-available/
+https://robotica.sandria.org/2017/06/lego-mindstorms-ev3-codigo-fuente-disponible/
